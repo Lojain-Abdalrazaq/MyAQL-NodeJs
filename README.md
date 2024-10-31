@@ -14,7 +14,7 @@ CRUD Operations:
 * Create Database: GET /createdb - Creates nodeDB.
 * Create Table: GET /createtable - Creates posts table in nodeDB.
 * Add Post: GET /addpost1 - Adds a sample post.
-Get All Posts: GET /getposts - Retrieves all posts.
-Get Single Post: GET /getpost/:id - Retrieves a post by ID.
-Update Post: PUT /updatepost/:id - Updates the title of a post by ID.
-Delete Post: DELETE /deletepost/:id - Deletes a post by ID.
+* Get All Posts: GET /getposts - Retrieves all posts.
+* Get Single Post: GET /getpost/:id - Retrieves a post by ID.
+* Update Post: PUT /updatepost/:id - Updates the title of a post by ID.
+* Delete Post: DELETE /deletepost/:id - Deletes a post by ID.
