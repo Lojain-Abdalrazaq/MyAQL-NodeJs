@@ -5,8 +5,8 @@ This is a simple CRUD (Create, Read, Update, Delete) application built with Node
 Database Creation: Creates a MySQL database named nodeDB.
 Table Creation: Creates a posts table with id, title, and body fields.
 CRUD Operations:
-**Create**: Adds new posts to the posts table.
-**Read**: Retrieves all posts or a single post by ID.
+**Create**: Adds new posts to the posts table. \n
+**Read**: Retrieves all posts or a single post by ID. \n
 **Update**: Updates a specific post’s title by ID.
 **Delete**: Deletes a specific post by ID.
 
